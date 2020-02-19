@@ -1,0 +1,9 @@
+.c-pointer{
+  cursor: pointer;
+}
+.edit:hover{
+  color: yellowgreen;
+}
+.delete:hover{
+  color: red;
+}
